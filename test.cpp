@@ -24,7 +24,7 @@ int day=3;
 switch (day)
 {
 case 3:
-    cout<<"Monday";
+    cout<<"vivek";
     break;
 
 default:
